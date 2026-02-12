@@ -8,3 +8,6 @@ Init is a first process start by the Kernal, it's also know as a systemd, there 
 
 
 A process is created when the operating system loads a program into memory and assigns it resources like CPU, memory, and I/O. Each process gets a unique identifier for tracking.
+
+
+Systemd is the program in Linux that starts everything after the computer boots. It launches services, manages processes, and keeps them running properly. It matters because it makes startup faster, organizes dependencies so things load in the right order, and gives a simple way to control services.
